@@ -4,7 +4,7 @@ by Will Hawkins and Taylor Scott
 
 Why did you choose this subject?
 ```
-PHP is a very popular language for a lot of oft-used technologies in web development (Wordpress, Drupel... Facebook uses it!)
+PHP is a very popular language for a lot of oft-used technologies in web development (Wordpress, Drupel... Facebook uses it too!)
 ```
 How were you first made aware of it?
 ```
@@ -13,7 +13,7 @@ It's one of the most well-known programming languages!
 What problem does it solve? How does it solve the problem (conceptually)?
 Why does one use it?
 ```
-It's mostly used for powerful server-side scripting with a wide variety of both outpou formats and database formats. It can basically talk to any service as well!
+It's mostly used for powerful server-side scripting with a wide variety of both output formats and database formats. It can basically talk to any service as well!
 ```
 What are the alternatives?
 ```
@@ -42,9 +42,11 @@ We used CodeAcademy, and although the website itself was having serious issues, 
 ```
 What are 3 interview questions one might be asked about this technology?
 ```
---What are the main error types in PHP and how do they differ?
---How we can get the number of elements in an array?
---What are the __construct() and __destruct() methods in a PHP class?
+What are the main error types in PHP and how do they differ?
+
+How we can get the number of elements in an array?
+
+What are the __construct() and __destruct() methods in a PHP class?
 ```
 Also, please include the instructions necessary to...
 
