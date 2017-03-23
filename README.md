@@ -52,8 +52,7 @@ Also, please include the instructions necessary to...
 
 Run your example.
 ```
+https://repl.it/GbOP/8
 
+Here's the repl! If you have PHP installed on your computer, you could also run this inside of HTML! Simply copy and paste the repl between some PHP tags: <?php ... ?>
 ```
-Do I need to run bower install? Do I need an API key?
-Use your subject.
-Do I need to include it in my HTML with <script> tags? Do I need to brew install anything? Can I deploy it to Heroku?
